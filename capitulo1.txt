@@ -1,1 +1,2 @@
 esto es una practica de git
+esta linea deberia quedar en la alterna. no en el master
